@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    // I do not think this code is good, please del it,!!!
     NSLog(@"Main code fixed this file...@Author Caishifu");
 }
 
